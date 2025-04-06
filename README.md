@@ -16,7 +16,7 @@ Hi, I'm swe-geek! I'm a passionate developer with a knack for creating efficient
 - 📫 How to reach me: [swekeyan@gmail.com](mailto:swekeyan@gmail.com)
 - ⚡ Fun fact: I can remember 10 digit numbers even if its not fancy!
 
-## 📚 My Writing & Content
+## 📚 My Technical Blog
 
 I also enjoy sharing my knowledge through writing and blogging. Here are some of my latest posts:
 
