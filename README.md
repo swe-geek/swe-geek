@@ -28,7 +28,7 @@ I also enjoy sharing my knowledge through writing and blogging. Here are some of
 
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/silentBob) or check out my [personal website](https://silentbob.dev).
 
-## 🛠️ Tools I Use
+## 🛠️ Tools and Technologies
 
 <div style="text-align: left;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" height="30"/>
