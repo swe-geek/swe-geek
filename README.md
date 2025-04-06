@@ -9,7 +9,6 @@
 
 Hi, I'm swe-geek! I'm a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, automation, and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
 
-
 - 🌱 I’m currently exploring **Artificial Intelligence**,  **DevOps** and **Infrastructure Automation**.
 - 🤝 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 - 💬 Ask me about **Javascript**, **vbscript**, and **Google Cloud Projects**.
@@ -42,9 +41,3 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/swethanan
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="30" height="30"/>
 </div>
-
-Markdown cheatsheet
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
-
-
