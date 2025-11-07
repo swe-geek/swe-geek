@@ -7,12 +7,11 @@
 
 ## About Me 😄
 
-Hi, I'm swe-geek! I'm a passionate developer with a knack for creating efficient, scalable solutions. My journey in tech spans web development, automation, and data analysis. I'm always excited to learn new technologies and collaborate on exciting projects.
+Hi, I'm swe-geek! I'm a passionate engineer focussing efficient, scalable solutions. My journey in tech spans web development, automation, and data analysis, engineering baseline, process automation, design architecture, agile and cyber security. I'm always excited to learn new technologies and collaborate on exciting projects.
 
 - 🌱 I’m currently exploring **Artificial Intelligence**,  **DevOps** and **Infrastructure Automation**.
 - 🤝 I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 - 💬 Ask me about **Javascript**, **vbscript**, and **Google Cloud Projects**.
-- 📫 How to reach me: [swekeyan@gmail.com](mailto:swekeyan@gmail.com)
 - ⚡ Fun fact: I can remember 10 digit numbers even if its not fancy!
 
 ## 📚 My Technical Blog
